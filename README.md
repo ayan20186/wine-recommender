@@ -30,7 +30,7 @@ We evaluated the following models on our dataset:
 3. Naive Bayes
 4. Logistic Regression
 5. Linear SVC
-6. 
+   
 Our best model for Task 1 (grape type classification) achieved 99% test accuracy, and our best model for Task 2 (grape variety classification) achieved 76% accuracy.
 
 ## Wine Recommendations
